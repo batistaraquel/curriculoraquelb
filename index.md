@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/batistaraquel/curriculoraquelb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batistaraquel/curriculoraquelb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset ="utf-8">
+    <title>Raquel Batista da Silva</title>
+    <link rel="icon" href="Sem%20t%C3%ADtulo.jpg">
+    <link rel="stylesheet" href="projeto1.css">
+</head>
+    
+    <body>
+        <main>
+        <div>    
+        <h1>Seja Bem Vindo</h1> 
+            
+                
+            <h2>Apresentação</h2>
+                <p>Sou formada em Ciências da conputação, possuo 22 anos, e resido no rio de janeiro.</p>
+                <p>Nos horários livres, busco aperfeiçoamento na área tecnológica, lendo notícias em sites e revistas pertencentes ao mundo tecnlógico.</p>
+            <div class="container">
+            <h2>Experiência</h2>
+                <div class="primeiro">
+                <p>Atuei por um perído de três ano em empresa do segmento de software contábil, executando a função de suporte técnico.</p>
+                <p>Realizei implantação de software e treinamentos referente a imputs de dados dentro do sistema, além de auxílio no setor de pós venda.</p></div>
+            
+            <div class="segundo">
+            <blockquote>
+                <p>Raquel foi uma das melhores técnica de que trabalhei nos útimos 5 anos, sendo proativa em todas as ações estabelicidas pelo seu coordenador e gerente.</p>
+                    <cite>Emanoel Souza,Empresa Software SA</cite>
+            </blockquote></div>
+            
+            </div>
+                
+            <h2>Formação</h2>
+                <p>Estudante do curso de graduação de Sistema da Informação na Isntituição Veiga de Almeida - RJ.</p>
+                <p>Atualmente sou estudante de cursos online da área tecnológica como os sites: udemy e alura.</p>
+            
+            </div>
+        </main>
+        <aside>
+            <img src="Sem título.jpg">
+                <nav>
+            <figcaption text align="center">Raquel Batista</figcaption>
+            
+            </nav> 
+               
+        </aside>
+        <footer>
+            &copy;Raquel Batita da Silva 2018
+        </footer>
+            
+    </body>
+</html>
